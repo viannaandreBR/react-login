@@ -2,8 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-![Alt text](video-demo.git)
-
+<img src="video-demo.gif" alt="demo React-Login" >
 
 
 ## Available Scripts
